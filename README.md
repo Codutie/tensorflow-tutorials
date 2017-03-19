@@ -14,4 +14,5 @@ Gentle introduction to tensorflow with mixed python notebooks examples
 
 # Content
 
-- hello world [notebook](https://github.com/Codutie/tensorflow-tutorials/blob/master/hello_tensorflow.ipynb)
+- hello world [(notebook)](https://github.com/Codutie/tensorflow-tutorials/blob/master/hello_tensorflow.ipynb)
+- simple linear regression [(notebook)](https://github.com/Codutie/tensorflow-tutorials/blob/master/simple_linear_regression.ipynb)
