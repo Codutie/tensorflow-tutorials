@@ -16,3 +16,5 @@ Gentle introduction to tensorflow with mixed python notebooks examples
 
 - hello world [(notebook)](https://github.com/Codutie/tensorflow-tutorials/blob/master/hello_tensorflow.ipynb)
 - simple linear regression [(notebook)](https://github.com/Codutie/tensorflow-tutorials/blob/master/simple_linear_regression.ipynb)
+- tensorflow image processing playground ![alt text](https://media.giphy.com/media/14bNUOL31rVHyg/giphy.gif)
+- mnist starter ![alt text](https://media.giphy.com/media/14bNUOL31rVHyg/giphy.gif)
